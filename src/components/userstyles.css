@@ -1,0 +1,18 @@
+.background {
+  background-color: #6ab1bc;
+}
+.buttonStyle {
+  background-color: transparent;
+  border: none;
+  margin-right: 40px;
+  margin-left: 40px;
+  width: 90px;
+  text-decoration: none;
+}
+.textstyle {
+  background-color: #9b8da78a;
+}
+.buttonOnClick {
+  background-color: #ef47a4d6;
+  border: none;
+}
